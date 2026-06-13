@@ -88,10 +88,6 @@ def home():
                 background: white;
             }
 
-            a {
-                text-decoration: none;
-            }
-
             footer {
                 margin-top: 50px;
                 padding: 20px;
@@ -115,61 +111,61 @@ def home():
             <div class="grid">
 
                 <div class="product">
-                    <img src="https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=500">
+                    <img src="/static/images/oud-royal.jpg">
                     <h3>Oud Royal</h3>
                     <p>Deep Arabian luxury scent</p>
                     <div class="price">$45</div>
-                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Oud%20Royal" target="_blank">
+                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Oud%20Royal">
                         <button class="btn">Buy on WhatsApp</button>
                     </a>
                 </div>
 
                 <div class="product">
-                    <img src="https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=500">
+                    <img src="/static/images/rose-elegance.jpg">
                     <h3>Rose Elegance</h3>
                     <p>Soft floral premium perfume</p>
                     <div class="price">$40</div>
-                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Rose%20Elegance" target="_blank">
+                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Rose%20Elegance">
                         <button class="btn">Buy on WhatsApp</button>
                     </a>
                 </div>
 
                 <div class="product">
-                    <img src="https://images.unsplash.com/photo-1618354691327-163402f2a5c8?auto=format&fit=crop&w=500">
+                    <img src="/static/images/midnight-amber.jpg">
                     <h3>Midnight Amber</h3>
                     <p>Warm evening fragrance</p>
                     <div class="price">$50</div>
-                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Midnight%20Amber" target="_blank">
+                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Midnight%20Amber">
                         <button class="btn">Buy on WhatsApp</button>
                     </a>
                 </div>
 
                 <div class="product">
-                    <img src="https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=500">
+                    <img src="/static/images/strawberry-bliss.jpg">
                     <h3>Strawberry Bliss</h3>
                     <p>Sweet fruity luxury fragrance</p>
                     <div class="price">$35</div>
-                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Strawberry%20Bliss" target="_blank">
+                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Strawberry%20Bliss">
                         <button class="btn">Buy on WhatsApp</button>
                     </a>
                 </div>
 
                 <div class="product">
-                    <img src="https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=500">
+                    <img src="/static/images/golden-musk.jpg">
                     <h3>Golden Musk</h3>
                     <p>Elegant long-lasting fragrance</p>
                     <div class="price">$55</div>
-                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Golden%20Musk" target="_blank">
+                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Golden%20Musk">
                         <button class="btn">Buy on WhatsApp</button>
                     </a>
                 </div>
 
                 <div class="product">
-                    <img src="https://images.unsplash.com/photo-1588405748880-12d1d2a59b16?auto=format&fit=crop&w=500">
+                    <img src="/static/images/royal-velvet.jpg">
                     <h3>Royal Velvet</h3>
                     <p>Luxury premium fragrance</p>
                     <div class="price">$60</div>
-                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Royal%20Velvet" target="_blank">
+                    <a href="https://wa.me/256745176042?text=I%20want%20to%20buy%20Royal%20Velvet">
                         <button class="btn">Buy on WhatsApp</button>
                     </a>
                 </div>
